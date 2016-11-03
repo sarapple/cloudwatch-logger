@@ -21,15 +21,8 @@ A logger utility tool to display tasks in the console and writes it to file.  Th
 }
 ```
 
-- Have a credential file in ~/.aws (~/.aws/credential) with aws keys. Per the [Javascript AWS-SDK](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS)
+- Setup your AWS keys in the AWS CLI per the [AWS CLI Docs](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
 
-```
-[default]
-
-aws_access_key_id = #
-
-aws_secret_access_key = #
-```
 ## Initialize the Logger
 
 ```javascript
