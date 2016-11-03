@@ -1,0 +1,7 @@
+{
+  "cloudwatch" : {
+    "group" : "/aws/lambda/test",
+    "region": "us-east-1",
+    "log_to_file": true
+  }
+}
