@@ -1,7 +1,7 @@
 {
   "name": "Cloudwatch Logger",
   "version": "0.1",
-  "description": "A setup for displaying cloudwatch logs from AWS using AWS and AWSLOGS CLI",
+  "description": "A setup for displaying and writing cloudwatch logs from AWS using AWS and AWSLOGS CLI",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
